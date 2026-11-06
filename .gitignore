@@ -39,3 +39,8 @@ pv.html
 tools/_*.mjs
 tools/_*.py
 .update/
+
+# Electron 本地依赖与构建产物。
+dist/
+build/cloudflared
+build/cloudflared.exe
